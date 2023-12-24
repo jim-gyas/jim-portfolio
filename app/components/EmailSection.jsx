@@ -48,11 +48,11 @@ const EmailSection = () => {
 
             <div className='z-10'>
                 <h5 className='text-xl font-bold text-white my-2'>
-                    Let's Connect
+                    Let&apos;s Connect
                 </h5>
                 <p className='text-[#ADB7BE] mb-4 max-w-md'>
                     {" "}
-                    As I embark on the journey of exploring new opportunities, my inbox is warmly open for any inquiries or simply a friendly hello. Feel free to reach out, and I'll do my best to respond promptly. For immediate assistance, you can also connect with me via phone at <span className='font-semibold'>6360717591</span>  or drop me an email at <span className='font-semibold'>jackandthebean1234@gmail.com</span>. Excited to connect!
+                    As I embark on the journey of exploring new opportunities, my inbox is warmly open for any inquiries or simply a friendly hello. Feel free to reach out, and I&apos;ll do my best to respond promptly. For immediate assistance, you can also connect with me via phone at <span className='font-semibold'>6360717591</span>  or drop me an email at <span className='font-semibold'>jackandthebean1234@gmail.com</span>. Excited to connect!
                 </p>
                 <div className='social flex flex-row gap-2'>
                       <Link href="https://github.com/jim-gyas">

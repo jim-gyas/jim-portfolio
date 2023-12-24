@@ -17,7 +17,7 @@ const HeroSection = () => {
     <h1 className='text-white mb-4  text-3xl sm:text-4xl lg:text-6xl lg:leading-normal  font-extrabold
   '>
   
-  <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-blue-400'>  Hello, I'm{" "} </span>
+  <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-blue-400'>  Hello, I&apos;m{" "} </span>
   <br></br>
   <TypeAnimation
       sequence={[
@@ -38,7 +38,7 @@ const HeroSection = () => {
   </h1>
  
   <p className='text-base  mb-6 text-[#ADB7BE] sm:text-lg lg:text-xl'>
-  I'm a web developer skilled in frontend design, animations, and full-stack development, with a strong interest in embedded engineering for innovative solutions and cutting-edge projects.
+  I&apos;m a web developer skilled in frontend design, animations, and full-stack development, with a strong interest in embedded engineering for innovative solutions and cutting-edge projects.
   </p>
   <div  >
   

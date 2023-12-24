@@ -126,6 +126,7 @@ const AboutSection = () => {
     py-8 px-4 sm:py-16 xl:px-16 '>
     <Image 
         src="/images/webdesk.jpg"
+        alt='web desk'
         width={400}
         height={400}
         className='z-10'
