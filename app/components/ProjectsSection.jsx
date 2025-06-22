@@ -17,13 +17,22 @@ const projectsData = [{
     id:2,
     title:"Dashboard React App",
     description:"Developed a React-based dashboard with Syncfusion controls for enriched data visualization. Enhanced UI design for a more user-friendly experience. Collaborated with the team to seamlessly integrate advanced UI components.",
-    image:"./images/project2.png",
-    tag: ["All","Web"],
-    gitUrl:"https://github.com/jim-gyas/Dashboard-React-app",
-    previewUrl:"https://tinshop.netlify.app/"
+    image:"./images/portfolio_pic.png",
+    tag: ["All"],
+    gitUrl:"https://github.com/jim-gyas/fundraising-insights-dashboard",
+    previewUrl:"https://github.com/jim-gyas/fundraising-insights-dashboard"
 },
 {
-    id:3,
+  id:4,
+  title:"Donation Trend Analysis and Reporting for Nonprofit Fundraising  ",
+  description:"An end-to-end fundraising analytics project using Excel, Python, SQL, and Power BI. Analyzed real donation data made to nonprofits affiliated with elected officials. Built dashboards and models to track donation trends, regional insights, and organizational impact.",
+  image:"./images/project2.png",
+  tag: ["All","Web"],
+  gitUrl:"https://github.com/jim-gyas/Dashboard-React-app",
+  previewUrl:"https://tinshop.netlify.app/"
+},
+{
+    id:5,
     title:"Thread Next.js 13 App",
     description:"Developed a social networking app with Next.js, React, and Node.js, utilizing MongoDB for backend storage. Integrated Clerk for authentication and messaging, optimizing performance with shadcn. Enhanced functionality for a seamless user experience.",
     image:"./images/project3.png",
@@ -32,7 +41,7 @@ const projectsData = [{
     previewUrl:"https://github.com/jim-gyas/Thread-Application"
 },
 {
-    id:4,
+    id:6,
     title:"Sorting Visualizer",
     description:"Built a Sorting Visualizer in C++ with SDL2, featuring popular sorting algorithms like Insertion, Selection, Bubble, Merge, Quick, and Heap Sort. Provides a hands-on experience to understand and compare algorithm efficiency.",
     image:"./images/project4.png",
@@ -41,14 +50,16 @@ const projectsData = [{
     previewUrl:"./images/main.exe"
 },
 {
-    id:5,
+    id:7,
     title:"E-commerce Website ",
     description:"Developed an advanced E-commerce Website with Django, a responsive design, user registration /authentication, a shopping cart, and a secure checkout process with integrated payment gateways for enhanced user experience and functionality.",
     image:"./images/project5.png",
     tag: ["All","Web"],
     gitUrl:"https://github.com/jim-gyas/E-commerce-Website-Using-advance-Django",
     previewUrl:"https://github.com/jim-gyas/E-commerce-Website-Using-advance-Django"
-}
+},
+
+
 
 ]
 
