@@ -16,7 +16,6 @@ const TAB_DAATA = [
                 <li className='font-semibold mb-1'>Data Analysis & Visualization: <span className='font-normal'>Pandas, NumPy, Matplotlib, Power BI, Tableau.</span></li>
                 <li className='font-semibold mb-1'>Data Engineering & Processing: <span className='font-normal'>ETL Pipelines, Data Cleaning, Deduplication, Web Scraping, Query Optimization, Hugging Face</span></li>
                 <li className='font-semibold mb-1'>Reporting \& Collaboration: <span className='font-normal'>Dashboard design, data validation, Git workflows, pull requests, documentation.</span></li>
-                <li className='font-semibold mb-1'>DATABASES: <span className='font-normal'>MySql,SQL,MongoDB.</span></li>
                 <li className='font-semibold mb-1'>Cloud & DevOps: <span className='font-normal'>AWS (EC2, S3), Docker, basic Linux</span></li>
               
             </ul>
@@ -58,6 +57,7 @@ Programming, SQL</span></p>
                     </ol>
                 </p>
                 </li>
+                <br/>
                 <li><h3>Associate Software Engineer | Syncmonk Pvt. Ltd</h3>
                 <p className='text-xs mb-2'>June 2024 - April 2024</p>
                 
@@ -71,6 +71,7 @@ Programming, SQL</span></p>
                     </ol>
                 </p>
                 </li>
+                <br/>
                 <li><h3>Frontend Developer (Freelance) | Ritual Softech</h3>
                 <p className='text-xs mb-2'>Oct 2023 - Dec 2023</p>
                 
