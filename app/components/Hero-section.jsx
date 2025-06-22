@@ -25,9 +25,9 @@ const HeroSection = () => {
         'Jimpa Gyatso',
         1000, // wait 1s before replacing "Mice" with "Hamsters"
         
-        'Web Developer',
+        'Data Engineer',
         1000,
-        'Embedded Engineer',
+        'Data Analyst',
         1000
       ]}
       wrapper="span"
@@ -38,15 +38,14 @@ const HeroSection = () => {
   </h1>
  
   <p className='text-base  mb-6 text-[#ADB7BE] sm:text-lg lg:text-xl'>
-  I&apos;m a web developer skilled in frontend design, animations, and full-stack development, with a strong interest in embedded engineering for innovative solutions and cutting-edge projects.
-  </p>
+  Detail-oriented Data Engineer with a solid foundation in data analysis, ETL pipelines, and automation. Proficient in Python, SQL, Git, and Power BI, with experience transforming large datasets into actionable insights. Strong collaborator with a focus on clean code, documentation, and scalable solutions.  </p>
   <div  >
   
     <Link href="/#contact" className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-blue-500   hover:bg-slate-200 text-white'>
         Hire Me
     </Link>
     <Link
-              href="/images/JIMPA_RESUME (34).pdf"
+              href="/images/jimpa_portfolio_resume.pdf"
               className="px-1 inline-block py-1  sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-blue-500  hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">

@@ -52,7 +52,7 @@ const EmailSection = () => {
                 </h5>
                 <p className='text-[#ADB7BE] mb-4 max-w-md'>
                     {" "}
-                    As I embark on the journey of exploring new opportunities, my inbox is warmly open for any inquiries or simply a friendly hello. Feel free to reach out, and I&apos;ll do my best to respond promptly. For immediate assistance, you can also connect with me via phone at <span className='font-semibold'>6360717591</span>  or drop me an email at <span className='font-semibold'>jackandthebean1234@gmail.com</span>. Excited to connect!
+                    As I embark on the journey of exploring new opportunities, my inbox is warmly open for any inquiries or simply a friendly hello. Feel free to reach out, and I&apos;ll do my best to respond promptly. For immediate assistance, you can also connect with me via phone at <span className='font-semibold'>(437)757-7515</span>  or drop me an email at <span className='font-semibold'>jimpagyatso111@gmail.com</span>. Excited to connect!
                 </p>
                 <div className='social flex flex-row gap-2'>
                       <Link href="https://github.com/jim-gyas">
@@ -78,7 +78,7 @@ const EmailSection = () => {
                 id="email"
                 required
                 className="z-10 bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
-                placeholder="jackandthebean1234@gmail.com"
+                placeholder="jimpagyatso111@gmail.com"
               />
             </div>
             <div className="mb-6 z-10">
