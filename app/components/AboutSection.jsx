@@ -13,7 +13,7 @@ const TAB_DAATA = [
             <ul className='list-disc pl-2'>
                 <li className='font-semibold mb-1'>PROGRAMMING & DATA TOOLS: <span className='font-normal'>Python, SQL, Bash, Git, GitHub, REST APIs, MySQL.</span></li>
     
-                <li className='font-semibold mb-1'>Data Analysis & Visualization: <span className='font-normal'>Pandas, NumPy, Matplotlib, Power BI, Tableau.</span></li>
+                <li className='font-semibold mb-1'>Data Analysis & Visualization: <span className='font-normal'>Excel,Pandas, NumPy, Matplotlib, Power BI(DAX), Tableau.</span></li>
                 <li className='font-semibold mb-1'>Data Engineering & Processing: <span className='font-normal'>ETL Pipelines, Data Cleaning, Deduplication, Web Scraping, Query Optimization, Hugging Face</span></li>
                 <li className='font-semibold mb-1'>Reporting \& Collaboration: <span className='font-normal'>Dashboard design, data validation, Git workflows, pull requests, documentation.</span></li>
                 <li className='font-semibold mb-1'>Cloud & DevOps: <span className='font-normal'>AWS (EC2, S3), Docker, basic Linux</span></li>
